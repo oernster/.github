@@ -1,0 +1,4 @@
+# Account-wide default: GitHub shows this as the Sponsor button on every
+# repository that has no FUNDING.yml of its own. The page lists each
+# application's own donation link.
+custom: ["https://ernster.dev/commercial-licensing.html#donate"]
