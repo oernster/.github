@@ -5,15 +5,15 @@ These terms apply to every public repository under
 
 ## The short version
 
-Contributions are welcome, but Oliver Ernster remains the sole licensing authority for every
+Contributions are welcome; Oliver Ernster remains the sole licensing authority for every
 project here. Opening a pull request constitutes agreement to the terms below.
 
 ## Contribution terms
 
 By submitting a contribution (a pull request, patch or any other material) you agree that:
 
-1. **You have the right to submit it.** The work is your own, or you have permission to submit it
-   under these terms, and it does not knowingly infringe anyone else's rights.
+1. **You have the right to submit it.** The work is your own (or you have permission to submit it
+   under these terms) and it does not knowingly infringe anyone else's rights.
 2. **It is licensed inbound as outbound.** Your contribution is licensed under the licence of the
    repository you submit it to.
 3. **You grant a relicensing right.** You grant Oliver Ernster a perpetual, worldwide, irrevocable,
@@ -32,3 +32,9 @@ and it may be implemented independently.
 - Match the repository's engineering conventions (tests, coverage gates, formatting); see its
   README and ARCHITECTURE.md where present.
 - Small, focused pull requests are far easier to review than large ones.
+
+## Contributor list
+
+GitHub's contributor sidebar can show an account that never contributed. shubh2294 (Shubham
+Mishra) is not a contributor to any of these repositories: the listing is a GitHub caching fault
+that cannot be cleared from this side.
